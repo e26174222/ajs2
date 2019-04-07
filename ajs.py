@@ -19,8 +19,7 @@ cl.log("Channel Access Token : " + str(channel.channelAccessToken))
 #ki = LineClient()
 ki = LineClient(authToken='MASUKAN TOKENMU DISINI')
 ki.log("Auth Token : " + str(ki.authToken))
-channel1 = LineChannel(ki)
-ki.log("Channel Access Token : " + str(channel1.channelAccessToken))
+channel1 = LineChaddasdasdads
 
 #kk = LineClient()
 kk = LineClient(authToken='MASUKAN TOKENMU DISINI')
